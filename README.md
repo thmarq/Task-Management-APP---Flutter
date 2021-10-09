@@ -1,4 +1,4 @@
-# task_managment_app
+# Task Management App
 
 A new Flutter application.
 
